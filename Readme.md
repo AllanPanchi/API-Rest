@@ -16,3 +16,4 @@ Recuerda que todo esto se lo debe realizar en la linea de comandos, ya sea Power
 
 - Inicia el servidor para desarrollo `python main.py`
 - Si quiera apagar el servidor solo presione `ctrl + c` en la linea de comandos
+- Recordar que si quiere ejecutarlo en un servidor local al FrontEnd escribir correctamente la ruta, revisar si la ruta tiene la siguientes estructura `http://{Una dirección IP}:{tu puerto}/tareas`
